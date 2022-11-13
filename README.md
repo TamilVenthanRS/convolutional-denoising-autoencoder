@@ -33,9 +33,11 @@ Compile and fit the created model.
 Display the Original, Noisy and Reconstructed Image.
 
 ## PROGRAM
-```python
+```
 Developed by: Tamil Venthan R S
 Reg No: 212220230054
+```
+```python
 from tensorflow import keras
 from tensorflow.keras import layers
 from tensorflow.keras import utils
